@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.xing.android.animation">
+
+    <application
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme">
+
+    </application>
+
+</manifest>
